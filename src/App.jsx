@@ -56,11 +56,11 @@ function App() {
         }
       >
         <section className="relative grid place-items-center h-[100vh]">
-          <p className="text-white text-center absolute top-[5%] mx-4 w-fit text-8xl font-bold">
-            Apple Watch
+          <p className="text-white text-center absolute top-[10%] mx-4 w-fit text-6xl font-bold">
+            ABARTH CUSTOM EXHAST
           </p>
-          <p className="text-white text-center absolute bottom-[5%] mx-4 w-fit text-8xl font-bold">
-            Ultra 2
+          <p className="text-white text-center absolute bottom-[5%] mx-4 w-fit text-6xl font-bold">
+            POWERED BY NXT
           </p>
 
           <div ref={sceneRef}  className="h-[100vh] w-[100vw] text-white">
